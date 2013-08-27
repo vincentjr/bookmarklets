@@ -1,3 +1,9 @@
+// To use as a bookmark
+// Add
+// javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.github.com/vincentjr/bookmarklets/master/js/pagegrep.js';})();
+// to your bookmark bar
+
+
 if (!($ = window.jQuery)) {
 	script = document.createElement( 'script' );  
 	script.src = 'http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js';  

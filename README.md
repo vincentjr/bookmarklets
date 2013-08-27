@@ -9,3 +9,7 @@ Installation:
 
 PageGrep: Add 
 
+	javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.github.com/vincentjr/bookmarklets/master/js/pagegrep.js';})(); 
+
+as a bookmark.
+
